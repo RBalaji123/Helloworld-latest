@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Welcome to XYZ BANK</title>
+<title>Welcome to Bala BANK</title>
 <style>
   body {
     background-color: yellow;
