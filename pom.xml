@@ -11,7 +11,7 @@
   <version>2.2-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>Hello World Web Virat Application</name>
+  <name>Hello World Web Application</name>
   <url>http://www.example.com</url>
 
   <dependencies>
