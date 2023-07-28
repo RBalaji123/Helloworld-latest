@@ -6,7 +6,7 @@
 <title>Welcome to Bala Bank</title>
 <style>
   body {
-    background-color: yellow;
+    background-color: red;
   }
 </style>
 </head>
