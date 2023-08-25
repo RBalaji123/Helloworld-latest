@@ -12,7 +12,7 @@
 </head>
 <body>
 <h1>Welcome to Balaji BANK </h1>
-<p>This is a sample Welcome to Balaji BANK applications </p>
+<p>This is a sample Welcome to Balaji BANK application </p>
 </body>
 </html>
 
