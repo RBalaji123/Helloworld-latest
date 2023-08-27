@@ -3,10 +3,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Welcome to Balaji Bank</title>
+<title>Welcome to Balaji King Maker Bank</title>
 <style>
   body {
-    background-color: yellow;
+    background-color: red;
   }
 </style>
 </head>
