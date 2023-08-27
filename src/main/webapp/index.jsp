@@ -11,7 +11,7 @@
 </style>
 </head>
 <body>
-<h1>Welcome to Balaji BANK </h1>
+<h1>Welcome to Balaji King Maker BANK </h1>
 <p>This is a sample Welcome to Balaji BANK application </p>
 </body>
 </html>
