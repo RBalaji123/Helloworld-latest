@@ -6,13 +6,13 @@
 <title>Welcome to Balaji King Maker Bank sep-24 </title>
 <style>
   body {
-    background-color: red;
+    background-color: yellow;
   }
 </style>
 </head>
 <body>
 <h1>Welcome to Balaji King Maker BANK </h1>
-<p>This is a sample Welcome to Balaji BANK application </p>
+<p>This is a sample Welcome to Balaji BANK application sep-24 </p>
 </body>
 </html>
 
