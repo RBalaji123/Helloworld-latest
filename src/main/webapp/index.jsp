@@ -6,7 +6,7 @@
 <title>Welcome to Balaji King Maker Bank sep-24 </title>
 <style>
   body {
-    background-color: blue;
+    background-color: orange;
   }
 </style>
 </head>
